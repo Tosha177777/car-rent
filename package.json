@@ -1,7 +1,7 @@
 {
   "name": "car-rent",
   "version": "0.1.0",
-  "homepage": "https://tosha177777.github.io/car-rent",
+  "homepage": "https://tosha177777.github.io/car-rent/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.1",
